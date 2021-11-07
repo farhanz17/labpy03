@@ -1,6 +1,4 @@
-#program mencari nilai n lebih fari 0,5
-
-print(10*"waduch ")
+#program mencari nilai n lebih dari 0,5
 
 print(10*":)")
 import random
