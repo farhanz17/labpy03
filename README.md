@@ -1,5 +1,9 @@
 # latihan1-2.py!
 
+link tugas lab2
+
+https://github.com/farhanz17/lab2.git
+
 -Tampilkan "n" bilangan acak yang lebih kecil dari 0,5.
 
 -Program dibuat dengan while loop dan for loop.
